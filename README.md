@@ -13,7 +13,7 @@ Lưu ý:
 
 ## Chuẩn bị
 
-Trước khi bắt đầu cài đặt, bạn cần phải thực hiện **Opt-out** để giới hạn quảng cáo trên thiết bị của bạn. Thực hiện theo bài viết [hướng dẫn Opt-out này.](https://github.com/bigdargon/hostsVN/wiki/Opt-out)
+Trước khi bắt đầu cài đặt, bạn cần phải thực hiện **Opt-out** để giới hạn quảng cáo trên thiết bị của bạn. Thực hiện theo bài viết [hướng dẫn Opt-out này.](https://github.com/AikoCute/Config-Shadow-Rocket/wiki)
 
 ## Thêm cấu hình
 
