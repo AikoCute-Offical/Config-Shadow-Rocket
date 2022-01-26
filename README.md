@@ -123,7 +123,7 @@ Bước 20: Chọn `Update Config`
 
 ## Báo lỗi
 
-> Trong quá trình sử dụng, trong danh sách tên miền chặn có thể dẫn đến lỗi khi sử dụng một số phần mềm khác. Theo các bước sau để bật nhật ký chặn của ứng dụng để báo lỗi tại đây http://aikocute.com
+> Trong quá trình sử dụng, trong danh sách tên miền chặn có thể dẫn đến lỗi khi sử dụng một số phần mềm khác. Theo các bước sau để bật nhật ký chặn của ứng dụng để báo lỗi tại đây [![](https://img.shields.io/badge/MyTele-@AikocuteTele-blue.svg)](https://t.me/AikoCute_Player)
 
 Bước 21: Chuyển sang tab `Data` tại mục `LOGGING` chọn `Proxy`. Bật tại tùy chọn `Enable logging`
 
