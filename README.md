@@ -123,10 +123,10 @@ Bước 20: Chọn `Update Config`
 
 ## Báo lỗi
 
-> Trong quá trình sử dụng, trong danh sách tên miền chặn có thể dẫn đến lỗi khi sử dụng một số phần mềm khác. Theo các bước sau để bật nhật ký chặn của ứng dụng để báo lỗi tại đây https://github.com/bigdargon/hostsVN/issues
+> Trong quá trình sử dụng, trong danh sách tên miền chặn có thể dẫn đến lỗi khi sử dụng một số phần mềm khác. Theo các bước sau để bật nhật ký chặn của ứng dụng để báo lỗi tại đây http://aikocute.com
 
 Bước 21: Chuyển sang tab `Data` tại mục `LOGGING` chọn `Proxy`. Bật tại tùy chọn `Enable logging`
 
 Bước 22: Kế tiếp trở lại ứng dụng muốn báo lỗi, thực hiện thao tác và chụp ảnh màn hình lỗi để đính kèm khi báo lỗi. Sau đó trở về ứng dụng Shadowrocket, chọn log mà ứng dụng vừa tạo ra, chọn tab `REJECT` và chụp màn hình tại tab này để đính kèm báo lỗi
 
-Bước 23: Đến địa chỉ https://github.com/bigdargon/hostsVN/issues để tiến hành báo lỗi, bạn ghi càng chi tiết càng tốt để quá trình xử lý lỗi được nhanh hơn!
+Bước 23: Đến địa chỉ [![](https://img.shields.io/badge/MyTele-@AikocuteTele-blue.svg)](https://t.me/AikoCute_Player) để tiến hành báo lỗi, bạn ghi càng chi tiết càng tốt để quá trình xử lý lỗi được nhanh hơn!
