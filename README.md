@@ -39,7 +39,7 @@ Và đợi ứng dụng tải tập tin cấu hình
 
 ## Cài đặt chứng chỉ
 
-Bước 5: Chọn `hostsVN-shadowrocket.conf`
+Bước 5: Chọn `aiko.conf`
 
 ![](https://raw.githubusercontent.com/AikoCute/Config-Shadow-Rocket/aiko/image/img_Shadowrocket_B05.jpg)
 
