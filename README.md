@@ -130,3 +130,5 @@ Bước 21: Chuyển sang tab `Data` tại mục `LOGGING` chọn `Proxy`. Bật
 Bước 22: Kế tiếp trở lại ứng dụng muốn báo lỗi, thực hiện thao tác và chụp ảnh màn hình lỗi để đính kèm khi báo lỗi. Sau đó trở về ứng dụng Shadowrocket, chọn log mà ứng dụng vừa tạo ra, chọn tab `REJECT` và chụp màn hình tại tab này để đính kèm báo lỗi
 
 Bước 23: Đến địa chỉ [![](https://img.shields.io/badge/MyTele-@AikocuteTele-blue.svg)](https://t.me/AikoCute_Player) để tiến hành báo lỗi, bạn ghi càng chi tiết càng tốt để quá trình xử lý lỗi được nhanh hơn!
+
+Chúc các bạn thành công !
