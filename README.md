@@ -21,7 +21,7 @@ Bước 1: Sau khi tải Shadowrocket, tại màn hình chính chọn tab `Confi
 
 ![](https://raw.githubusercontent.com/AikoCute/Config-Shadow-Rocket/aiko/image/img_Shadowrocket_B01.jpg)
 
-Bước 2: Dán đường dẫn cấu hình https://raw.githubusercontent.com/AikoCute/Config-Shadow-Rocket/aiko/aiko.conf vào popup `Download config from url...` hiện lên, sau đó nhấn `Download` để ứng dụng thêm tập tin cấu hình
+Bước 2: Dán đường dẫn cấu hình < Liên hệ Aiko > vào popup `Download config from url...` hiện lên, sau đó nhấn `Download` để ứng dụng thêm tập tin cấu hình
 
 ![](https://raw.githubusercontent.com/AikoCute/Config-Shadow-Rocket/aiko/image/img_Shadowrocket_B02.jpg)
 
